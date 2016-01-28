@@ -10,3 +10,5 @@ The following is going to assume you have Jupyter or IPython Notebooks installed
 jupyter notebook
 ```
 * This should open a page in your default web browser. Then just click on 'PokitDok_Data_Visualization.ipynb' to open it and run the cells for the visualization. 
+
+Note: This isn't perfect and I was hoping to fix the overlapping labels problem but will have to save that for future work. 
